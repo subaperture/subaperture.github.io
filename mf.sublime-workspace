@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.2,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/maf/Downloads/mf"
+	],
+	"file_history":
+	[
+		"/Users/maf/Downloads/mf/.gitignore",
+		"/Users/maf/Downloads/mf/themes/stardust/layouts/home.html",
+		"/C/Users/mfe39/Downloads/mf/TODO",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/home.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/_partials/head.html",
+		"/C/Users/mfe39/Downloads/mf/hugo.toml",
+		"/C/Users/mfe39/Downloads/mf/content/en/index.md",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/_partials/footer.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/_partials/header.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/baseof.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/page.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/layouts/section.html",
+		"/C/Users/mfe39/Downloads/mf/themes/stardust/content/_index.md",
+		"/C/Users/mfe39/Downloads/mf/.prettierrc",
+		"/C/Users/mfe39/Downloads/mf/mf.sublime-project",
+		"/C/Users/mfe39/Downloads/teoriamusical/teoria-musical.sublime-workspace",
+		"/C/Users/mfe39/Desktop/mailerlite_recovery_codes.txt",
+		"/C/Users/mfe39/Desktop/UTF-8doc_2807225582_rev_21.txt",
+		"/C/Users/mfe39/software/sublime_text_build_4169_x64/Data/Local/Session.sublime_session",
+		"/C/Users/mfe39/software/sublime_text_build_4169_x64/Data/Local/Backup Session.sublime_session",
+		"/C/Users/mfe39/software/sublime_text_build_4169_x64/Data/Local/Auto Save Session.sublime_session",
+		"/C/Users/mfe39/Downloads/teoriamusical/teoria-musical.sublime-project",
+		"/C/Users/mfe39/Desktop/1.txt",
+		"/C/Users/mfe39/Desktop/2.txt",
+		"/C/Users/mfe39/Desktop/3.txt",
+		"/C/Users/mfe39/Desktop/vouchers.txt",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/_partials/breadcrumb.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/_partials/footer.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/_partials/head.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/_partials/header.html",
+		"/C/Users/mfe39/Downloads/p/s.py",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/section.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/page.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/home.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/hugo.toml",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/hugo.toml",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/baseof.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/.prettierrc",
+		"/C/Users/mfe39/Downloads/teoriamusical/themes/fusa/layouts/_partials/transverse.html",
+		"/C/Users/mfe39/Downloads/teoriamusical/.prettierrc.js",
+		"/C/Users/mfe39/Desktop/teoria-musical.sublime-workspace",
+		"/C/Users/mfe39/Desktop/propatheia.sublime-workspace",
+		"/C/Users/mfe39/Desktop/propatheia.sublime-project",
+		"/C/Users/mfe39/Desktop/p.sublime-project",
+		"/C/Users/mfe39/Desktop/.prettierrc.js",
+		"/C/Users/mfe39/Downloads/teoriamusical/archetypes/default.md",
+		"/C/Users/mfe39/Downloads/i.html",
+		"/C/Users/mfe39/Downloads/create_tm.cmd",
+		"/C/Users/mfe39/Downloads/fontawesome-free-6.7.2-web/fontawesome-free-6.7.2-web/svgs/brands/flickr.svg",
+		"/C/Users/mfe39/Downloads/fontawesome-free-6.7.2-web/fontawesome-free-6.7.2-web/svgs/brands/tumblr.svg",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/home.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/2-sons-isolados/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/2-sons-isolados/2-1-notas.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-1-melodia.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-1-triades.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-2-acordes-de-setima.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-3-baixo-continuo.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-4-forma.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-5-cadencias.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-6-harmonia/3-6-6-frase.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-4-escalas/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-4-escalas/3-4-1-escala-maior.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-4-escalas/3-4-2-escala-relativa-menor.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-4-escalas/3-4-3-escala-paralela-menor.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-2-intervalos.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-3-consonancia-e-dissonancia.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/3-sons-em-conjunto/3-5-modos.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/4-palavras-finais/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/4-palavras-finais/conclusoes.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/1-1-som/1-1-1-altura.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/1-1-som/1-1-2-intensidade.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/1-1-som/1-1-3-duracao.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/1-1-som/1-1-4-timbre.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/content/pt/1-fundamentos/1-1-som/_index.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/_partials/head.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/hugo.toml",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/section.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/_partials/menu.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/_partials/header.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/baseof.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/page.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/layouts/_partials/breadcrumbs.html",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/archetypes/default.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/themes/stardust/hugo.toml",
+		"/C/Users/mfe39/Downloads/teoria-musical/archetypes/default.md",
+		"/C/Users/mfe39/Downloads/teoria-musical/teoria-musical.sublime-project",
+		"/C/Users/mfe39/Downloads/teoria-musical/.prettierrc",
+		"/C/Users/mfe39/Downloads/teoriamusical/content/pt/1-fundamentos/1-1-som/1-1-2-intensidade.md",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/_partials/header.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/home.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/_partials/head.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/_partials/form.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/baseof.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/page.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/layouts/section.html",
+		"/C/Users/mfe39/Downloads/p/themes/stardust/hugo.toml",
+		"/C/Users/mfe39/Downloads/p/content/en/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/en/section1/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/en/section2/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/en/section3/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/pt/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/pt/section1/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/pt/section2/_index.md",
+		"/C/Users/mfe39/Downloads/p/content/pt/section3/_index.md",
+		"/C/Users/mfe39/Downloads/p/.prettierrc",
+		"/C/Users/mfe39/Downloads/p/hugo.toml",
+		"/C/Users/mfe39/Downloads/p/p.sublime-project",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/head.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/nav-breadcrumb.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/nav-translations.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/header.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/baseof.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/home.html",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/footer.html",
+		"/C/Users/mfe39/Downloads/px/hugo.toml",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/_partials/nav-sections.html",
+		"/C/Users/mfe39/Downloads/px/content/en/_index.md",
+		"/C/Users/mfe39/Downloads/px/content/pt/_index.md",
+		"/C/Users/mfe39/Downloads/px/themes/stardust/layouts/page.html",
+		"/C/Users/mfe39/Downloads/px/.gitignore",
+		"/C/Users/mfe39/Downloads/px/.prettierrc",
+		"/C/Users/mfe39/Downloads/px/propatheia.sublime-project",
+		"/C/Users/mfe39/Downloads/jsprettier-and-prettier-community-plugin-example/jsprettier-and-prettier-community-plugin-example/.prettierrc",
+		"/C/Users/mfe39/Downloads/jsprettier-and-prettier-community-plugin-example/jsprettier-and-prettier-community-plugin-example/example.gohtml",
+		"/C/Users/mfe39/Downloads/jsprettier-and-prettier-community-plugin-example/jsprettier-and-prettier-community-plugin-example/package.json"
+	],
+	"find":
+	{
+		"height": 128.0
+	},
+	"find_in_files":
+	{
+		"height": 619.6,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 116.0
+	},
+	"input":
+	{
+		"height": 221.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "mf.sublime-project",
+	"replace":
+	{
+		"height": 228.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

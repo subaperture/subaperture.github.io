@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'marcoferra.com'
+
+theme = 'stardust'
+
+[params]
+  description = "hugo.toml description"
+
+[module]
+  [module.hugoVersion]
+    min = "0.147.0"
+  [[module.mounts]]
+    lang = 'en'
+    source = 'content/en'
+    target = 'content'

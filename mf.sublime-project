@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"tab_size": 2,
+		"translate_tabs_to_spaces": true,
+		"detect_indentation": false,
+		"default_line_ending": "unix",
+		"js_prettier": {
+			"debug": false,
+			"auto_format_on_save": true,
+			"custom_file_extensions": ["gohtml"],
+			"additional_cli_args": {
+				"--config-precedence": "file-override"
+			}
+		}
+	}
+}
